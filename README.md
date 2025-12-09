@@ -7,5 +7,5 @@ This repository contains FastAPI practice files including:
 ## Run Instructions
 1. Install FastAPI and Uvicorn:
    ```bash
-   pip install fastapi uvicorn
+   pip install fastapi uvicorn 
 
